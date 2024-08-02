@@ -1,5 +1,5 @@
 ---
 layout: Resume
 icon: fas fa-user
-order: 3
+order: 4
 ---
