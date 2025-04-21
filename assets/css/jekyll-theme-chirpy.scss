@@ -8,3 +8,15 @@
 ';
 
 /* append your custom style below */
+
+#sidebar .site-title {
+  font-family: inherit;
+  font-weight: 900;
+  font-size: 1.75rem;
+  line-height: 1.2;
+  letter-spacing: .25px;
+  margin-top: 1.25rem;
+  margin-bottom: .5rem;
+  width: fit-content;
+  color: #b35858;
+}
