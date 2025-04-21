@@ -23,8 +23,23 @@
 
 sidebar .site-subtitle {
   font-size: 95%;
-  color: #cad58b;
+  color: #c7b39a;
   margin-top: .25rem;
   word-spacing: 1px;
   user-select: none;
+}
+
+#sidebar {
+  padding-left: 0;
+  padding-right: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  overflow-y: auto;
+  width: 260px;
+  background: #3e390d;
+  border-right: 1px solid var(--sidebar-border-color);
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
