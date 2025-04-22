@@ -29,8 +29,13 @@ With a background in **Platform Engineering**, I help organizations architect re
 
 # 💼 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/gopalsahu25/) | [Twitter](https://x.com/gopalsahu25) | [YouTube](https://www.youtube.com/@gopalsahu_official) | [ASL Website](https://learn.attainskillslab.com)
-| [Topmate](https://topmate.io/gopalsahu)
+[LinkedIn](https://www.linkedin.com/in/gopalsahu25/) | [Twitter](https://x.com/gopalsahu25) | [YouTube](https://www.youtube.com/@gopalsahu_official)
+
+---
+
+# 💼 Mentorship and Courses
+
+[Topmate](https://topmate.io/gopalsahu) | [Attain Skills Lab](https://learn.attainskillslab.com) 
 
 ---
 
