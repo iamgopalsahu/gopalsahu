@@ -16,7 +16,7 @@ timezone:
 
 title: Gopal Sahu # the main title
 
-tagline: Cloud Data & AI Architect - Google | 13+ years of experience in Data & AI domain building large scale platforms | Data Engineering & Data Architecture | AI Engineer | MLOps | Generative AI Engineer # it will display as the subtitle
+tagline: Cloud Data & AI Architect - Google | <br>13+ years of experience in Data & AI domain building large scale platforms </br>| Data Engineering & Data Architecture | AI Engineer | MLOps | Generative AI Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Data Engineering Expert, AI Engineer, Generative AI, Machine Learning, Platform Engineering, AWS, Azure, Databricks, Google Cloud, Kafka, dbt
