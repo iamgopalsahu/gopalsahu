@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-#> Add Markdown syntax content to file `_tabs/resume.md`{: .filepath } and it will show up on this page.
-#{: .prompt-tip }
-
 ### 📌 About Me
 
 Hi, I’m **[Your Name]**, a passionate and detail-oriented **[Your Role – e.g., Front-End Developer / Data Scientist / Software Engineer]** with a love for building elegant, efficient, and user-friendly solutions.
