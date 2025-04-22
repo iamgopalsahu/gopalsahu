@@ -4,43 +4,42 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-### 📌 About Me
+# 👋 Heyyy, I am Gopal
 
-Hi, I’m **[Your Name]**, a passionate and detail-oriented **[Your Role – e.g., Front-End Developer / Data Scientist / Software Engineer]** with a love for building elegant, efficient, and user-friendly solutions.
+I'm a Data & AI Architect with extensive experience designing and building scalable data platforms and intelligent systems. I specialize in **Data Engineering**, **MLOps**, **Artificial Intelligence**, and **Generative AI**, and have led initiatives across major cloud platforms including **GCP**, **AWS**, and **Azure**.
 
-With experience in **[list key skills or industries]**, I enjoy turning complex problems into simple, beautiful, and intuitive designs. Whether it's crafting dynamic web experiences, analyzing large datasets, or designing scalable backend systems, I’m always learning and pushing the limits of what’s possible.
+With a background in **Platform Engineering**, I help organizations architect reliable, secure, and high-performance data ecosystems to unlock business value and accelerate innovation.
 
-Currently, I'm working on **[your current project or job]**, and always on the lookout for exciting collaborations and opportunities.
 
-When I’m not coding, you’ll find me **[your hobbies or interests, e.g., reading sci-fi, exploring coffee shops, sketching, or hiking]**.
-
-Let’s connect and build something awesome together!
+*Let's build smarter and scalable systems together.*
 
 ---
 
-### 🔧 Tech Stack
+# 🛠 Skills / Tech Stack
 
-- **Languages:** JavaScript, Python, HTML/CSS, [others...]
-- **Frameworks:** React, Node.js, Flask, [others...]
-- **Tools:** Git, VS Code, Figma, Docker, [others...]
-
----
-
-### 📨 Contact
-
-- Email: [your-email@example.com]
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
+- **Data Engineering:** Apache Spark, Databricks, BigQuery, Snowflake, Kafka, Airflow, dbt
+- **Machine Learning & AI:** TensorFlow, PyTorch, scikit-learn, Vertex AI, SageMaker, Azure ML
+- **Generative AI:** LLMOps, LangChain, Prompt Engineering, OpenAI APIs, Fine-tuning, Vector DBs (e.g., FAISS, Pinecone)
+- **MLOps:** MLflow, Kubeflow, CI/CD for ML, Model Registry, Feature Stores
+- **DevOps & Platform Engineering:** Docker, Kubernetes, Terraform, GitOps, CI/CD pipelines
+- **Languages:** Python, SQL, Bash, YAML, Java
 
 ---
 
-### 📍 Location
+# 💼 Connect with Me
 
-Currently based in **[Your City, Country]**, open to remote opportunities worldwide 🌍
+[LinkedIn](https://www.linkedin.com/in/gopalsahu25/) | [Twitter](https://x.com/gopalsahu25) | [YouTube](https://www.youtube.com/@gopalsahu_official) | [ASL Website](https://learn.attainskillslab.com)
+| [Topmate](https://topmate.io/gopalsahu)
 
 ---
 
-### ✨ Fun Fact
+# 📜 Certifications
 
-I once **[fun fact – e.g., built a game in 48 hours during a hackathon, solved a Rubik’s cube underwater, learned to juggle during quarantine...]**
-
+- Google Cloud Professional Cloud Architect  
+- Google Cloud Professional Machine Learning Engineer 
+- Google Cloud Professional Data Engineer 
+- Google Cloud Professional Network Engineer 
+- Google Cloud Professional Security Engineer 
+- Google Cloud Professional Database Engineer 
+- AWS Certified AI Practitioner
