@@ -29,7 +29,7 @@ With a background in **Platform Engineering**, I help organizations architect re
 
 # 💼 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/gopalsahu25/) | [Twitter](https://x.com/gopalsahu25) | [YouTube](https://www.youtube.com/@gopalsahu_official)
+![medium-colored-linkedin](/assets/img/favicons/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/gopalsahu25/) | ![medium-colored-twitter-x](/assets/img/favicons/twitter-x.svg) [Twitter](https://x.com/gopalsahu25) | ![medium-colored-youtube](/assets/img/favicons/youtube.svg) [YouTube](https://www.youtube.com/@gopalsahu_official)
 
 ---
 
